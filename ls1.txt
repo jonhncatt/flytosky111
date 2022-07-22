@@ -1,1 +1,0 @@
-ls: /bin/usr: No such file or directory
